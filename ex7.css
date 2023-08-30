@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Montserrat:wght@200&family=Raleway:wght@200&family=Roboto+Condensed:wght@300&display=swap');
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+div {
+    color: #0077b6;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.txt {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+
+#pg {
+    margin: 0 auto;
+    width: 50%;
+    background-color: #fff1e6;
+    padding: 10px 20px 10px 20px;
+
+}
+
+.data{
+  padding-top: 50px;
+}

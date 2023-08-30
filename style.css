@@ -1,0 +1,10 @@
+div {
+    border: solid purple 5px;
+    width: 50%;
+    margin: 0 auto;/*Centralziando elementos com margin*/
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+}
+
+/*Padding espaçamento interno (dentro da borda)
+margin espaçamento externo (fora da borda)*/
